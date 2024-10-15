@@ -10,15 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Who We Are !
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**INTELLIBUILD **is a leading reseller and installer of cutting-edge home automation solutions, dedicated to transforming ordinary living spaces into smart, efficient, and secure environments. With a passion for technology and a commitment to excellence, we provide tailored solutions that enhance the quality of life for our clients.
 
-## Header 2
+# Mission Statement !
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Our mission is to empower homeowners with innovative automation technologies that improve convenience, security, and energy efficiency. We strive to deliver exceptional service and expert installation, ensuring that our customers experience the full benefits of smart home living.
 
 ### Header 3
 
